@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="dataStructure.MyArrayLinearList"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="dataStructures.LinearList"/>
+    <fullyQualifiedTypeName name="dataStructures.ChainNode"/>
+    <fullyQualifiedTypeName name="dataStructures.ArrayLinearList"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="dataStructures.Chain"/>
+    <fullyQualifiedTypeName name="dataStructures.HashTable"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="dataStructures.Stack"/>
+    <fullyQualifiedTypeName name="dataStructures.LinkedBinaryTree"/>
+    <fullyQualifiedTypeName name="dataStructures.ArrayStack"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
