@@ -14,4 +14,9 @@
     <fullyQualifiedTypeName name="dataStructures.LinkedBinaryTree"/>
     <fullyQualifiedTypeName name="dataStructures.ArrayStack"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.awt.Event"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionEvent"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="java.awt.geom.Ellipse2D"/>
 </qualifiedTypeNameHistroy>
